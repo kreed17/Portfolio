@@ -1,35 +1,35 @@
 export const projects = [
   {
-    title: "React Reserve",
-    subtitle: "MERN Stack",
-    description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-1.gif",
-    link: "https://reactbootcamp.com",
-  },
-  {
-    title: "React Tracks",
-    subtitle: "React and Python",
-    description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-2.gif",
-    link: "https://reactbootcamp.com",
-  },
-  {
-    title: "DevChat",
+    title: "Amazon Clone",
     subtitle: "React and Firebase",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-3.gif",
-    link: "https://reactbootcamp.com",
+      "Clone of amazon.com with payment functionality and user authentication",
+    image: "./AmazonGif.gif",
+    link: "https://clone-59585.web.app/",
   },
   {
-    title: "Epic Todo App",
-    subtitle: "React Hooks",
+    title: "Logger",
+    subtitle: "MERN Stack",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-4.gif",
-    link: "https://reactbootcamp.com",
+      "Application with the abilty to store login and logout times in database using MongoDB",
+    image: "./LoggerGif.gif",
+    link: "https://github.com/kreed17/Logger",
+  },
+  {
+    title: "Netflix Clone",
+    subtitle: "React and Firebase",
+    description:
+      "Clone of netflix.com using moviedb API with video plugin",
+    image: "../NetflixGif.gif",
+    link: "https://netflixclone-c8de1.web.app/",
+  },
+  {
+    title: "User CRUD APP",
+    subtitle: "MERN Stack",
+    description:
+      "CRUD application to store information of entered users",
+    image: "./UserGif.gif",
+    link: "https://github.com/kreed17/CRUD-App",
   },
 ];
 
@@ -53,7 +53,7 @@ export const testimonials = [
 export const skills = [
   "JavaScript",
   "React",
-  "Node",
+  "NodeJS",
   "Java",
   "MongoDB",
   "Material UI",
