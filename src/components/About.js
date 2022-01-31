@@ -8,13 +8,12 @@ function About() {
         <div className="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
           <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-white">
             Hello, I'm Kamron. 
-            <br className="hidden lg:inline-block" /> I love to build amazing
-            apps.
+            <br className="hidden lg:inline-block" /> I love to build web applications
           </h1>
           <p className="mb-8 leading-relaxed">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui
-            laborum quasi, incidunt dolore iste nostrum cupiditate voluptas?
-            Laborum, voluptas natus?
+              I am a full stack developer, located in Dallas, Tx. I have a strong interest in coding
+              and enjoy learning about new technolgies. When I'm not coding I'm probably watching
+              sports
           </p>
           <div className="flex justify-center">
             <a
@@ -33,7 +32,7 @@ function About() {
           <img
             className="object-cover object-center rounded"
             alt="hero"
-            src="./coding.svg"
+            src="https://raw.githubusercontent.com/kreed17/Portfolio/master/public/coding.svg"
           />
         </div>
       </div>

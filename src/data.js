@@ -56,5 +56,5 @@ export const skills = [
   "NodeJS",
   "Java",
   "MongoDB",
-  "Material UI",
+  "Express",
 ];

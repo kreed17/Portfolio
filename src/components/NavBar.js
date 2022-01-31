@@ -18,9 +18,9 @@ function NavBar() {
           <a href="#skills" className="mr-5 hover:text-white">
             Skills
           </a>
-          {/* <a href="#testimonials" className="mr-5 hover:text-white">
-            Testimonials
-          </a> */}
+          <a href="https://github.com/kreed17/" target ='_blank' >
+            <img className='h-10 w-25 rounded' src="https://aws1.discourse-cdn.com/github/original/3X/4/6/4607bf071815b928202030de4b8de5b498581a2b.png" alt="" />
+          </a>
         </nav>
         <a
           href="#contact"
