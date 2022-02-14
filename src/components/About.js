@@ -11,9 +11,8 @@ function About() {
             <br className="hidden lg:inline-block" /> I love to build web applications
           </h1>
           <p className="mb-8 leading-relaxed">
-              I am a full stack developer, located in Dallas, Tx. I have a strong interest in coding
-              and enjoy learning about new technolgies. When I'm not coding I'm probably watching
-              sports
+              I am a full stack developer, located in Dallas, Tx. I began coding in 2018 .Since then, I have
+              gained a strong interest in developing programs and learning new technologies.
           </p>
           <div className="flex justify-center">
             <a
