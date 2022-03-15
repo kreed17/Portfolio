@@ -25,7 +25,7 @@ export const projects = [
   },
   {
     title: "User CRUD APP",
-    subtitle: "MERN Stack",
+    subtitle: "React and Spring Boot",
     description:
       "CRUD application to store information of entered users",
     image: "./UserGif.gif",
