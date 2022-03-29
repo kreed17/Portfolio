@@ -9,7 +9,7 @@ export const projects = [
   },
   {
     title: "Polls",
-    subtitle: "Spring Boot and React",
+    subtitle: "Spring Boot, React, MySQL",
     description:
       "Application with the ability for users to create polls for others to interact with",
     image: "./PollsGif.gif",
@@ -25,7 +25,7 @@ export const projects = [
   },
   {
     title: "User CRUD APP",
-    subtitle: "React and Spring Boot",
+    subtitle: "React, Spring Boot, MongoDB",
     description:
       "CRUD application to store information of entered users",
     image: "./UserGif.gif",
