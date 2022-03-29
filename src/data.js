@@ -11,7 +11,7 @@ export const projects = [
     title: "Polls",
     subtitle: "Spring Boot and React",
     description:
-      "Application with the abilty for users to create polls for others to interact with",
+      "Application with the ability for users to create polls for others to interact with",
     image: "./PollsGif.gif",
     link: "https://main.d35e1id79aiks0.amplifyapp.com/",
   },
