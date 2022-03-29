@@ -8,12 +8,12 @@ export const projects = [
     link: "https://clone-59585.web.app/",
   },
   {
-    title: "Logger",
-    subtitle: "MERN Stack",
+    title: "Polls",
+    subtitle: "Spring Boot and React",
     description:
-      "Application with the abilty to store login and logout times in database using MongoDB",
-    image: "./LoggerGif.gif",
-    link: "https://github.com/kreed17/Logger",
+      "Application with the abilty for users to create polls for others to interact with",
+    image: "./PollsGif.gif",
+    link: "https://main.d35e1id79aiks0.amplifyapp.com/",
   },
   {
     title: "Netflix Clone",
