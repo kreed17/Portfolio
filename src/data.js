@@ -29,7 +29,7 @@ export const projects = [
     description:
       "CRUD application to store information of entered users",
     image: "./UserGif.gif",
-    link: "https://github.com/kreed17/CRUD-App",
+    link:"https://crud-app-kam.herokuapp.com/",
   },
 ];
 
